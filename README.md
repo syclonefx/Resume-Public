@@ -24,7 +24,7 @@ Software developer with 25 years of engineering experience, including 11 years f
 ### MATERIALS LAB FOCUS SUPERVISOR, TELEDYNE OIL & GAS: DAYTONA BEACH, FL — 2006 - 2014
 
 - Oversaw daily operations of the Materials Testing Laboratory,
-- Monitored ensuring all testing adhered to ASTM standards.
+- Ensured all testing adhered to ASTM standards.
 - Scheduled testing workflows and coordinated with engineers to meet project deadlines.
 - Led a team of technicians to maintain high-quality data collection and reporting standards.
 - Played a pivotal role in the development and evaluation of new and existing products.
@@ -32,7 +32,7 @@ Software developer with 25 years of engineering experience, including 11 years f
 
 ### MATERIAL LAB TECHNICIAN, TELEDYNE ODI : DAYTONA BEACH, FL — 2004 - 2006
 
-- Collaborated with engineers to design and preform tests for new and existing products in compliance with ASTM standards.
+- Collaborated with engineers to design and perform tests for new and existing products in compliance with ASTM standards.
 - Conducted daily inspections, measured test samples, and logged data into databases.
 - Compiled and presented comprehensive reports in Excel and PowerPoint
 
