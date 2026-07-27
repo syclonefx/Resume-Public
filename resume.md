@@ -51,6 +51,7 @@ Software developer with 25 years of engineering experience, including 11 years f
 
 ### Programming Languages & Tools
 
+### Database
 - TSQL and MySQL
 - Created several scripts for migrating data from Microsoft Dynamic AX ERP to IFS ERP
 
