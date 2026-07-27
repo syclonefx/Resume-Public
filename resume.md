@@ -10,7 +10,7 @@ Software developer with 25 years of engineering experience, including 11 years f
 - Built and maintained internal intranet SharePoint  sites and public-facing SharePoint websites
 - Automated financial report generation in Excel by extracting data from multiple databases and compiling actionable insights.
 - Collaborated with cross-functional teams to deliver solutions that streamlined operations and improved data accessibility.
-- Built software supporting multiple Teledyne business units, including aerospace/imaging divisions such as Teledyne Imaging and Teledyne Space Imaging
+- Built software supporting multiple Teledyne business units, including aerospace/imaging divisions
 - Participated in code review with fellow developers as part of the software development team
 
 ### TECHNOLOGY INTEGRATION SPECIALIST, TELEDYNE OIL & GAS: DAYTONA BEACH, FL — 2014 - 2016
